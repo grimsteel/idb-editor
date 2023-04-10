@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Indexed DB Editor",
+  "version": "0.1.0",
+  "description": "Edit Indexed DB data in the browser",
+  "devtools_page": "devtools.html"
+}

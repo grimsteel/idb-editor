@@ -1,0 +1,13 @@
+{
+  "name": "idb-editor",
+  "version": "0.1.0",
+  "description": "Edit Indexed DB data in the browser",
+  "private": true,
+  "scripts": {
+    "set-ext-version": "node ./bump-version.js $npm_config_newversion"
+  },
+  "keywords": [],
+  "author": "Siddhant Kameswar <admin@vocabustudy.org>",
+  "license": "MIT",
+  "type": "module"
+}
